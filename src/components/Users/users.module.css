@@ -1,0 +1,13 @@
+.userPhoto {
+     width: 100px;
+    height: 100px;
+    
+}
+.follow button{
+    color: rgb(94, 56, 56);
+   background-color: rgb(162, 231, 33);
+   border: 2.5px solid rgb(43, 197, 224);
+   margin-left: 23px
+}
+
+

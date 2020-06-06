@@ -1,0 +1,23 @@
+.paginator {
+    margin: 10px;
+}
+
+.pageNumber {
+    padding: 2px;
+    border: 1px solid grey;
+}
+
+.pageNumber.selectedPage {
+    font-weight: bold;
+    border-color: tan;
+}
+
+
+.portionChange button {
+    color: rgb(94, 41, 41);
+    background-color: rgb(162, 231, 33);
+    border: 2px solid rgb(43, 197, 224);
+    margin-left: 5px;
+    margin-top: 5px;
+    padding: 2px;
+}

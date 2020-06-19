@@ -1,12 +1,17 @@
 .nav {
     grid-area: n;
-    background-color: rgb(43, 197, 224);
+    background-color: rgb(30, 70, 156);
     padding: 20px;
 }
 
 .item a {
     color: white;
     text-decoration: none;
+}
+.item{
+    margin: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
 }
 
 .item a.activeLink {

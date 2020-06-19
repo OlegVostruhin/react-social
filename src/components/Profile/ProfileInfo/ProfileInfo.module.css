@@ -1,9 +1,12 @@
 .descriptionBlock {
     padding: 10px;
 }
-.avatar{
-   max-width: 200px; 
+
+.avatar {
+    max-width: 200px;
 }
-.contact{
+
+.contact {
     padding-left: 10px;
 }
+

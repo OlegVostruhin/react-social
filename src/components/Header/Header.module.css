@@ -1,18 +1,35 @@
 .header {
     grid-area: h;
-    background-color: rgb(0, 77, 221);
-
-} 
+    background-color: rgb(30, 70, 156);
+}
 
 .header img {
-    width: 60px;
+    width: 40px;
+    margin-left: 15px;
+    margin-top: 5px;
 }
 
 .loginBlock {
     float: right;
-
 }
+
 .loginBlock a {
-    color: rgb(7, 226, 226);
+    color: rgb(12, 88, 88);
 }
 
+.loginButton {
+    color: #fff; 
+    text-decoration: none; 
+    user-select: none; 
+    background: rgb(212,75,56); 
+    padding: .7em 1.5em; 
+    outline: none; 
+}
+.loginButton:hover{ background: rgb(232,95,76); }
+.loginButton:active { background: rgb(152,15,0); }
+
+.userName{
+    font-family: 'Courier New', Courier, monospace;
+    color: bisque;
+    font-size: 14px;
+}
